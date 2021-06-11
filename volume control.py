@@ -1,6 +1,6 @@
 import cv2
 import time
-import numpy as npqq
+import numpy as np
 import HandTrackingModule as htm
 import warnings
 warnings.filterwarnings("ignore")
